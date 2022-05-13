@@ -1,0 +1,35 @@
+table {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 12px;
+    border: 1px solid black;
+	margin: auto;
+}
+
+p {
+	font-family: 'Times New Roman', Times, setif;
+    text-transform: uppercase;
+    font-size: 12px;
+    text-align: center;
+}
+
+.bg_empty {
+    height: 10px;
+    background: rgb(0, 126, 10);
+}
+
+td {
+    border: 1px solid black;
+    height: 20px;
+}
+
+
+.weekday {
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    
+}
+.bold {
+    font-weight: 900;
+}
